@@ -2,6 +2,7 @@
 
 int main(){
 	printf("Hello\n");
+	printf("Success push!");
 
 	return 0;
 }
